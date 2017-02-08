@@ -46,6 +46,10 @@ http://docs.phonegap.com/en/3.0.0/cordova_connection_connection.md.html
         <preference name="phonegap-version"       value="3.5.0" />
     -->
 
+    <content src="index.html" />
+
+
+
     <!-- Plugins -->
 
     <!-- Core plugins -->
