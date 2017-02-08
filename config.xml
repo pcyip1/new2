@@ -6,6 +6,7 @@
 <allow-intent href="sms:*" />
 <allow-intent href="mailto:*" />
 <allow-intent href="geo:*" />
+ <uses-permission android:name="android.permission.INTERNET" />
 <platform name="android">
     <allow-intent href="market:*" />
 </platform>
