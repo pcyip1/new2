@@ -10,7 +10,7 @@ http://docs.phonegap.com/en/3.0.0/cordova_connection_connection.md.html
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>test</name>
+    <name>New2</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
